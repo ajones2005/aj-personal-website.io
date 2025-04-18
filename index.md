@@ -1,5 +1,3 @@
----
-layout: home
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -87,5 +85,3 @@ layout: home
   </section>
 </body>
 </html>
-
----
